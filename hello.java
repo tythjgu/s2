@@ -2,7 +2,7 @@ public class hello
 {
 	public static void main (String [] args)
 	{
-		System.out.println("welcome to git the and git hub");
+		System.out.println("welcome to the  git  and git hub");
 	}
 }
 
